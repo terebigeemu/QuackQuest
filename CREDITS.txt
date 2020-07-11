@@ -1,0 +1,36 @@
+CREDITS
+=======
+
+https://aidswidjaja.github.io
+https://github.com/terebigeemu/QuackQuest
+
+Thank you to the people below for helping me make this project. I really appreciate it and will do my best to give back to the community.
+
+~aidswidjaja
+
+TILEMAPS
+--------
+
+Industrial by 0x72 - licensed under CC-0
+https://0x72.itch.io/16x16-industrial-tileset
+
+microFantasy by 0x72 - licensed under CC-0
+https://0x72.itch.io/microfantasy
+
+16x16 Dungeon Tileset by 0x72 - licensed under CC-0
+https://0x72.itch.io/16x16-dungeon-tileset
+
+16x16 Dungeon Tileset II by 0x72 - licensed under CC-0
+https://0x72.itch.io/dungeontileset-ii
+
+Micro Tileset - Overworld & Dungeon by thkaspar- licensed under CC-BY 4.0
+https://thkaspar.itch.io/micro-tileset-overworld-dungeon
+
+Gallet City by adamatomic - public domain
+https://adamatomic.itch.io/gallet-city
+
+Another RPG Tileset (16x16) by fikry13 - licensed under CC-BY 4.0
+https://fikry13.itch.io/another-rpg-tileset
+
+Retro Lines by v3x3d - publicly available
+https://v3x3d.itch.io/retro-lines
